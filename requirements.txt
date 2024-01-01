@@ -1,5 +1,16 @@
 tensorflow[and-cuda]
+tensorrt
 ipykernel
 notebook
+jupyter
 pillow
 transformers
+bitsandbytes
+accelerate
+torch
+ffmpeg
+ipywidgets
+accelerate
+datasets
+soundfile
+librosa
